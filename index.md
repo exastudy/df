@@ -1,8 +1,13 @@
-## Data Fundemental
+## Data Fundamentals
 
-테스트
 
-업데이트?
+###
+
+### EduTracker
+
+[EduTracker](http://exastudy.cafe24.com/solutions/edutracker)
+
+
 
 You can use the [editor on GitHub](https://github.com/exastudy/df/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
