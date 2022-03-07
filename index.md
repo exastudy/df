@@ -1,19 +1,26 @@
-## Data Fundamentals
+# Data Fundamentals
 
+## EduTracker
 
-### Sample Databases
+- [EduTracker](http://exastudy.cafe24.com/solutions/edutracker1/)
 
-- Site 1: 
-- Site 2: 
+## Sample Databases
 
+### Sites
 
-### SQLite
+- [Test Site 1](http://141.164.49.85/phpmyadmin/)
+- [Test Site 2](http://141.164.48.150/phpmyadmin/)
+
+### 접속 계정 정보
+
+- ID: 강의시간 배포
+- PW: 강의시간 배포
+
+## SQLite
 
 - [SQLite Browser Download](https://sqlitebrowser.org/)
 
-### EduTracker
-
-- [EduTracker](http://exastudy.cafe24.com/solutions/edutracker1/)
+## 
 
 
 
