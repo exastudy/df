@@ -5,7 +5,7 @@
 
 ### EduTracker
 
-[EduTracker](http://exastudy.cafe24.com/solutions/edutracker)
+[EduTracker](http://exastudy.cafe24.com/solutions/edutracker1/)
 
 
 
