@@ -1,11 +1,19 @@
 ## Data Fundamentals
 
 
-###
+### Sample Databases
+
+- Site 1: 
+- Site 2: 
+
+
+### SQLite
+
+- [SQLite Browser Download](https://sqlitebrowser.org/)
 
 ### EduTracker
 
-[EduTracker](http://exastudy.cafe24.com/solutions/edutracker1/)
+- [EduTracker](http://exastudy.cafe24.com/solutions/edutracker1/)
 
 
 
